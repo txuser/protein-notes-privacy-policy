@@ -1,7 +1,10 @@
 # Privacy Policy of "Protein Notes"
-# 「たんぱく質記録帳」のプライバシー ポリシー
-# Politique de confidentialité de «Protéine Notes»
-# # 无限姓名生成器 "蛋白质笔记"
+-  「たんぱく質記録帳」のプライバシー ポリシー
+- Politique de confidentialité de «Protéine Notes»
+- 无限姓名生成器 "蛋白质笔记"
+
+<br>
+<br>
 
 ## 1. Handling of user information
 This application uses Google AdMob for ad serving and Google Firebase Analytics for the usage analysis.<br>
