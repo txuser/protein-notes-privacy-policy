@@ -14,7 +14,7 @@ AdMob (Google Inc.): https://policies.google.com/technologies/ads?hl=en <br>
 Firebase Analytics (Google Inc.): https://policies.google.com/privacy?hl=en <br>
 
 ## 2. Contact information
-https://docs.google.com/forms/d/e/1FAIpQLSdkeS9xs7sjfTGh3WeMTZ4V6hDlhvCZPxiJd-gEPxkfhqcK0g/viewform
+https://docs.google.com/forms/d/e/1FAIpQLScpksZjUiS7i19cS94CCxoH0xnuCDcPeRHZl0Uep_24hEkQUg/viewform
 
 <br>
 <br>
@@ -27,7 +27,7 @@ AdMob（Google Inc.）: https://policies.google.com/technologies/ads?hl=ja <br>
 Firebase Analytics（Google Inc.）: https://policies.google.com/privacy?hl=ja <br>
 
 ## 2. お問い合わせ先
-https://docs.google.com/forms/d/e/1FAIpQLSdkeS9xs7sjfTGh3WeMTZ4V6hDlhvCZPxiJd-gEPxkfhqcK0g/viewform
+https://docs.google.com/forms/d/e/1FAIpQLScpksZjUiS7i19cS94CCxoH0xnuCDcPeRHZl0Uep_24hEkQUg/viewform
 
 <br>
 <br>
@@ -40,7 +40,7 @@ AdMob (Google Inc.) : https://policies.google.com/technologies/ads?hl=fr <br>
 Firebase Analytics (Google Inc.) : https://policies.google.com/privacy?hl=fr <br>
 
 ## 2. Informations de contact
-https://docs.google.com/forms/d/e/1FAIpQLSdkeS9xs7sjfTGh3WeMTZ4V6hDlhvCZPxiJd-gEPxkfhqcK0g/viewform
+https://docs.google.com/forms/d/e/1FAIpQLScpksZjUiS7i19cS94CCxoH0xnuCDcPeRHZl0Uep_24hEkQUg/viewform
   
 <br>
 <br>
@@ -53,4 +53,4 @@ AdMob（Google Inc.）：https://policies.google.com/technologies/ads?hl=zh <br>
 Firebase分析（Google Inc.）：https://policies.google.com/privacy?hl=zh <br>
 
 ## 2. 联系信息
-https://docs.google.com/forms/d/e/1FAIpQLSdkeS9xs7sjfTGh3WeMTZ4V6hDlhvCZPxiJd-gEPxkfhqcK0g/viewform
+https://docs.google.com/forms/d/e/1FAIpQLScpksZjUiS7i19cS94CCxoH0xnuCDcPeRHZl0Uep_24hEkQUg/viewform
