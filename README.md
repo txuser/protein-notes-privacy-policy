@@ -1,7 +1,7 @@
 # Privacy Policy of "Protein Notes"
 -  「たんぱく質記録帳」のプライバシー ポリシー
 - Politique de confidentialité de «Protéine Notes»
-- 无限姓名生成器 "蛋白质笔记"
+- "蛋白质笔记"的隐私政策
 
 <br>
 <br>
